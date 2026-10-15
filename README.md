@@ -1,5 +1,7 @@
 # Microsoft Copilot Studio Labs
 
+[Account  Info](https://docs.google.com/spreadsheets/d/1rYi68fphC6u4MwY0Ix_6i64eaofxbmkUe6382tmINQE/edit?usp=sharing)
+
 Hands-on lab exercises for the Microsoft Copilot Studio: Low-Code Copilot Development course (IN1945). Every lab has its own folder with a `README.md` that takes you through the lab one numbered step at a time. Each step ends with the result you should see. Every README also has a completion checklist and a troubleshooting section.
 
 All six labs build the same agent, **Northstar Helpdesk**. Keep your agent and your test records from one lab to the next.
